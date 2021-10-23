@@ -141,3 +141,4 @@ cython_debug/
 # Custom Ignores
 grocery_links.txt
 /test_dump
+/html_data
